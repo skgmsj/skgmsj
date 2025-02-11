@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skgmsj
+- 👋 Hi, I’m @skgms
 - 👀 I’m interested in programming, video games, cats, art, music, movies/TV-shows, learning new things.
 - 🌱 I’m currently learning python and will learn java soon.
 - 💞️ I’m looking to collaborate on nothing right now.
